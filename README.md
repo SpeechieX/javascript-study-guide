@@ -16,11 +16,7 @@ This is a list of JavaScript concepts. This list can be used by beginners as a c
 Be able to manipulate the following primitives: 
 
 * Numbers 
-    - `%` 
-    - `+`
-    - `-`
-    - `/`
-    - `*`
+    - `%`, `+`, `-`, `/`, `*`
     - `Math.floor` 
     - `Math.min`
     - `Math.max`
