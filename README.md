@@ -34,7 +34,7 @@ Be able to manipulate the following primitives:
     - template literals: `this is ${someVariable}`
     - strings are indexed: "cat"[1] //=> "a")
 * `while` loops 
-* `if-else if-else` conditionals 
+* `if/else if/else` conditionals 
 * ternary operators: `bool ? value : value`
 * other JS operators: 
     - `+=`, `-=`, `*=`, `/=`, `%=`, `++`, `--`
