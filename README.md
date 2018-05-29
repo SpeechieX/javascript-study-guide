@@ -33,7 +33,7 @@ Be able to manipulate the following primitives:
 * Strings 
     - `slice`
     - `splice` 
-    - template literals: <code>`this is ${someVariable}`</code>
+    - template literals: ``this is ${someVariable}``
     - strings are indexed: `"cat"[1]` //=> "a")
 * `while` loops 
 * `if/else if/else` conditionals 
