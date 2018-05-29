@@ -28,13 +28,13 @@ Be able to manipulate the following primitives:
     - `!`
     - `<`, `>`, `<=`, `>=`, `==`, `===`, `!=`, `!==`
     - What is the difference between `==` and `===`?
-    - Values in JS have implicit `true` and `false` values known as *truthy* and *falsey*
+    - Values in JS have implicit `true` and `false` values known as *truthy* and *falsey*. What values are truthy and what values are falsey?
     - `!!` type coercion
 * Strings 
     - `slice`
     - `splice` 
-    - template literals: `this is ${someVariable}`
-    - strings are indexed: "cat"[1] //=> "a")
+    - template literals: <code>`this is ${someVariable}`</code>
+    - strings are indexed: `"cat"[1]` //=> "a")
 * `while` loops 
 * `if/else if/else` conditionals 
 * ternary operators: `bool ? value : value`
@@ -88,6 +88,7 @@ const add = (a,b) => {
 * Immediately Invoked Function Expressions (IIFE's)
 * function declarations vs. function expressions 
 * "hoisting" functions in JS
+* What are closures?
 
 ## Objects, ES6 Classes and Prototypes
 
@@ -104,6 +105,7 @@ const add = (a,b) => {
     - super class with the `super` keyword
     - instantiate a class with the `new` keyword
     - gives objects behavior with class methods
+    - class properties
 * Objects are linked to other objects via `prototypes`
     - prototype delegation 
     - `getPrototypeOf`
@@ -130,6 +132,9 @@ const add = (a,b) => {
     - `sort`
     - `length`
     - `concat`
+    - `some`
+    - `find`
+    - `findIndex`
 
 * Do the above array methods mutate the array they operate on or do they create and modify a new array?
 * arrays are 0-indexed
